@@ -12,9 +12,7 @@ Change old DB_USER and DB_PASSWORD into currentserver username and password in w
 # Step 3 :
 
 Import database to mysql server.
-
-# Step 4 :
-
+(Already database file available in cloned folder)
 
 # Step 5 :
 
