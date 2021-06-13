@@ -1,0 +1,45 @@
+html, body { 
+    font-family: "Gilroy-Regular";
+}
+.container{
+    max-width: 95%;
+}
+.navbar{
+    padding: 2rem 0rem;
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.navbar-toggler {
+    padding: 0px;
+    font-size: 1.75rem;
+    line-height: 1;
+    background-color: #fff;
+    border: none;
+    border-radius: 0px;
+    outline: none;
+}
+.navbar-light .navbar-toggler {
+    color: var(--primaryColor);
+    border-color: var(--primaryColor);
+}
+
+.modal-dialog {
+    max-width: 800px;
+    margin: 30px auto;
+}
+.modal-body {
+position:relative;
+padding:0px;
+}
+.close {
+position:absolute;
+right:-30px;
+top:0;
+z-index:999;
+font-size:2rem;
+font-weight: normal;
+color:#fff;
+opacity:1;
+}
