@@ -417,3 +417,7 @@ section.footer .dev-by{
     text-align: right;
     margin: 0rem;
 }
+section.footer .dev-by a{
+	text-decoration: none;
+	color: #bfb9b9;
+}

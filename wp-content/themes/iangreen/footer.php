@@ -49,7 +49,7 @@
      </div>
      <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
       <p class="dev-by">
-       Site by <b>Starbeery</b>
+       Site by <a href="https://starberry.tv/" target="_blank"><b>Starbeery</b>
       </p>
      </div>
    </div>
