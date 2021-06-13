@@ -21,3 +21,4 @@ Updated permalink
 # Step 6 :
 
 Run site
+URL like ('http://localhost/iangreen')
