@@ -22,3 +22,6 @@ Updated permalink
 
 Run site
 URL like ('http://localhost/iangreen')
+
+Username - admin
+Password - admin
